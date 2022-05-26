@@ -1,8 +1,5 @@
 name: Bundle and Publish Sources
-on: 
-  push:
-    branches:
-      - '**'
+on: push
 jobs:
   build:
     name: Bundle and Publish Sources
