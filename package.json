@@ -1,12 +1,11 @@
 {
   "name": "extensions-official",
   "version": "1.0.0",
-  "repositoryName": "xOnlyFadi's Extensions (0.6)",
-  "description": "xOnlyFadi's Extensions for 0.6!",
+  "repositoryName": "bopol's Extensions (0.6)",
+  "description": "Bopol's Extensions for 0.6!",
   "main": "index.js",
-  "homepage": "https://xonlyfadi.github.io/xonlyfadi-extensions/",
-  "GITHUB_REPOSITORY": "https://github.com/xOnlyFadi/xonlyfadi-extensions",
-  "baseURL": "https://xonlyfadi.github.io/xonlyfadi-extensions/",
+  "homepage": "https://b0pol.github.io/bopol-extensions-test/",
+  "baseURL": "https://b0pol.github.io/bopol-extensions-test/",
   "scripts": {
     "bundle": "paperback bundle",
     "serve": "paperback serve",
